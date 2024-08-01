@@ -6,9 +6,15 @@ Python script for real-time object detection using the webcam. It utilizes the Y
 
 ## How to use
 1- clone repository
+```bash
+git clone https://github.com/alitavanaali/YOLO_realtime_detection.git
+cd YOLO_realtime_detection
+```
 
 2- install dependencies
+```bash
 pip install opencv-python
 pip install ultralytics
+```
 
 3- run main.py
